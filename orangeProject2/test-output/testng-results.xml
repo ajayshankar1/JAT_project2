@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="11" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-04T20:54:09 IST" name="Suite" finished-at="2023-02-04T20:59:29 IST" duration-ms="320165">
+    <groups>
+      <group name="smoke">
+        <method signature="Main.testCase2()[pri:2, instance:mainClass.Main@5ace1ed4]" name="testCase2" class="mainClass.Main"/>
+      </group> <!-- smoke -->
+      <group name="first">
+        <method signature="Main.testCase1()[pri:1, instance:mainClass.Main@5ace1ed4]" name="testCase1" class="mainClass.Main"/>
+      </group> <!-- first -->
+    </groups>
+    <test started-at="2023-02-04T20:54:09 IST" name="Test" finished-at="2023-02-04T20:59:29 IST" duration-ms="320165">
+      <class name="mainClass.Main">
+        <test-method is-config="true" signature="start()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:54:09 IST" name="start" finished-at="2023-02-04T20:54:22 IST" duration-ms="12245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="testCase1()[pri:1, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:54:22 IST" name="testCase1" finished-at="2023-02-04T20:54:50 IST" duration-ms="28587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:54:50 IST" name="end" finished-at="2023-02-04T20:54:50 IST" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="start()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:54:50 IST" name="start" finished-at="2023-02-04T20:54:57 IST" duration-ms="6325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="testCase2()[pri:2, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:54:57 IST" name="testCase2" finished-at="2023-02-04T20:55:15 IST" duration-ms="17942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:55:15 IST" name="end" finished-at="2023-02-04T20:55:15 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="start()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:55:15 IST" name="start" finished-at="2023-02-04T20:55:26 IST" duration-ms="10685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="testCase3()[pri:3, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:55:26 IST" name="testCase3" finished-at="2023-02-04T20:55:33 IST" duration-ms="7119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:55:33 IST" name="end" finished-at="2023-02-04T20:55:33 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="start()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:55:33 IST" name="start" finished-at="2023-02-04T20:55:41 IST" duration-ms="7927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="testCase4()[pri:4, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:55:41 IST" name="testCase4" finished-at="2023-02-04T20:56:10 IST" duration-ms="29377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:56:10 IST" name="end" finished-at="2023-02-04T20:56:11 IST" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="start()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:56:11 IST" name="start" finished-at="2023-02-04T20:56:18 IST" duration-ms="7063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="testCase5()[pri:5, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:56:18 IST" name="testCase5" finished-at="2023-02-04T20:56:39 IST" duration-ms="21115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase5 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:56:39 IST" name="end" finished-at="2023-02-04T20:56:39 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="start()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:56:39 IST" name="start" finished-at="2023-02-04T20:56:48 IST" duration-ms="9094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="testCase6()[pri:6, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:56:48 IST" name="testCase6" finished-at="2023-02-04T20:56:54 IST" duration-ms="5647" status="FAIL">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: element is not attached to the page document
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-U35TTNJ0', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ajayj\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57382}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 434bdbcb765575b5c7c76adec341fcf6]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=109.0.5414.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-U35TTNJ0', ip: '192.168.137.1', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.120, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\ajayj\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57382}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 434bdbcb765575b5c7c76adec341fcf6
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+at org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:166)
+at mainClass.Main.testCase6(Main.java:460)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase6 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:56:54 IST" name="end" finished-at="2023-02-04T20:56:54 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="start()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:56:54 IST" name="start" finished-at="2023-02-04T20:57:05 IST" duration-ms="11101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="testCase7()[pri:7, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:57:05 IST" name="testCase7" finished-at="2023-02-04T20:57:24 IST" duration-ms="19034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase7 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:57:24 IST" name="end" finished-at="2023-02-04T20:57:24 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="start()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:57:24 IST" name="start" finished-at="2023-02-04T20:57:35 IST" duration-ms="10652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="testCase8()[pri:8, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:57:35 IST" name="testCase8" finished-at="2023-02-04T20:57:54 IST" duration-ms="19326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase8 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:57:54 IST" name="end" finished-at="2023-02-04T20:57:54 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="start()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:57:54 IST" name="start" finished-at="2023-02-04T20:58:02 IST" duration-ms="7946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="testCase9()[pri:9, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:58:02 IST" name="testCase9" finished-at="2023-02-04T20:58:14 IST" duration-ms="11160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase9 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:58:14 IST" name="end" finished-at="2023-02-04T20:58:14 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="start()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:58:14 IST" name="start" finished-at="2023-02-04T20:58:21 IST" duration-ms="7359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="testCase10()[pri:10, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:58:21 IST" name="testCase10" finished-at="2023-02-04T20:58:40 IST" duration-ms="18648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase10 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:58:40 IST" name="end" finished-at="2023-02-04T20:58:40 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="start()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:58:40 IST" name="start" finished-at="2023-02-04T20:58:52 IST" duration-ms="12154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="testCase12()[pri:12, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:58:52 IST" name="testCase12" finished-at="2023-02-04T20:59:06 IST" duration-ms="14291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase12 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:59:06 IST" name="end" finished-at="2023-02-04T20:59:07 IST" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="start()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:59:07 IST" name="start" finished-at="2023-02-04T20:59:18 IST" duration-ms="11588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="testCase13()[pri:13, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:59:18 IST" name="testCase13" finished-at="2023-02-04T20:59:29 IST" duration-ms="10778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase13 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:mainClass.Main@5ace1ed4]" started-at="2023-02-04T20:59:29 IST" name="end" finished-at="2023-02-04T20:59:29 IST" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- mainClass.Main -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
